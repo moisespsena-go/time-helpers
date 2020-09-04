@@ -1,0 +1,4 @@
+err_bad_format: "Campo %s: formato de hora não é válido. Use <b>H</b>, <b>H:S</b> ou <b>H:M:S</b>."
+err_bad_hour: Hora inválida
+err_bad_minute: Minuto inválido
+err_bad_second: Segundo inválido
